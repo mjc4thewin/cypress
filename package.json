@@ -1,0 +1,16 @@
+{
+  "name": "cypress-interview-template",
+  "version": "1.0.0",
+  "description": "Progressive E2E Cypress exercise template for interview candidates",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:round1": "cypress run --spec 'cypress/e2e/01-login.cy.js'",
+    "cy:run:round3": "cypress run --spec 'cypress/e2e/02-products.cy.js'",
+    "cy:run:round4": "cypress run --spec 'cypress/e2e/03-cart.cy.js'",
+    "cy:run:round6": "cypress run --spec 'cypress/e2e/04-checkout.cy.js'"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
