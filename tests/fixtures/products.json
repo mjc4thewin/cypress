@@ -1,0 +1,14 @@
+{
+  "sortBy": "za",
+  "sortedFirstProduct": "Test.allTheThings() T-Shirt (Red)",
+  "sortedLastProduct": "Sauce Labs Backpack",
+  "addToCart": {
+    "name": "Sauce Labs Backpack",
+    "id": "add-to-cart-sauce-labs-backpack"
+  },
+  "checkout": {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "postalCode": "12345"
+  }
+}
